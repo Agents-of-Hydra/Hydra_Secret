@@ -1,6 +1,5 @@
-
-
 echo "Heil Hydra"
+
 apt-get autoremove
 
 du -sh /var/cache/apt 
